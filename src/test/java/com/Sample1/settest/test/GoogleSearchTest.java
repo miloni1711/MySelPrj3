@@ -73,7 +73,7 @@ public class GoogleSearchTest {
        n.forward();
        n.refresh();
      }*/
-      @Test
+     /* @Test
       
       public void tstFacebooksignUp(){
       driver.get("http://www.facebook.com");
@@ -90,7 +90,7 @@ public class GoogleSearchTest {
           driver.findElements(By.name("sex")).get(1).click();
       
       
-      }
+      }*/
        
        
        
